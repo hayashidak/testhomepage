@@ -3,3 +3,11 @@ rails new app_name
 
 #サーバー起動
 rails server
+
+#ざっくりとした機能
+- view
+- controller
+- routing
+
+#generate top page(create view feature)
+rails generate controller home top
