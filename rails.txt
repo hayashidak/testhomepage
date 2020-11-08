@@ -1,0 +1,5 @@
+# プロジェクトファイル起動
+rails new app_name
+
+#サーバー起動
+rails server
